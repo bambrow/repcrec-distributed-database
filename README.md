@@ -49,4 +49,4 @@ Or, to run it with standard input, simply type:
 ```
 
 ## Project Report
-The detailed project report can be found [here](https://github.com/bambrow/repcrec-distributed-database/blob/master/design_document.pdf).
+The detailed project report can be found [here](design_document.pdf).
